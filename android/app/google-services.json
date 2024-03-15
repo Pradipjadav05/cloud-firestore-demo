@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "610008552642",
+    "project_id": "fir-authentication-demo-beab5",
+    "storage_bucket": "fir-authentication-demo-beab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610008552642:android:e5344470ea14968a69575b",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firestore_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610008552642-o9m5tcau96cprv6ctq190nu9uh41smnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcllbDvPtlC6D13HJMC610bbfMrt8ToU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610008552642-o9m5tcau96cprv6ctq190nu9uh41smnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610008552642-9pj31uvbqm31vr36c7pin3rgih96pa3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthenticationDemo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610008552642:android:fc7bc4188f12346269575b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610008552642-5j156bjrs35sadus9ddcjqsj55q4m07g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_authentication_demo",
+            "certificate_hash": "db4fc25ef635a88223f4ba2657b66ebc01113fd1"
+          }
+        },
+        {
+          "client_id": "610008552642-o9m5tcau96cprv6ctq190nu9uh41smnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcllbDvPtlC6D13HJMC610bbfMrt8ToU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610008552642-o9m5tcau96cprv6ctq190nu9uh41smnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610008552642-9pj31uvbqm31vr36c7pin3rgih96pa3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthenticationDemo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
